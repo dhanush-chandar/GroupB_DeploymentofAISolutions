@@ -25,10 +25,15 @@ Set up the GitHub repository for version control and documentation.
 
 
 Repository Structure:
+
 /Data/        - Sample datasets and data sources.
+
 /Models/      - Python scripts for demand forecasting and optimization (to be developed).
+
 /Docs/        - Project documentation (problem statement, architecture design, database schema).
+
 README.md     - Project overview and instructions.
+
 
 Setup Instructions:
 
