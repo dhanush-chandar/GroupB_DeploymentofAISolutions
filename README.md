@@ -12,23 +12,23 @@ This project is part of the Retail Industry Project with the objective of develo
 
 
 
-Phase 1 Objectives:
+**Phase 1 Objectives:**
 
-Define the inventory optimization problem in retail.
+1.Define the inventory optimization problem in retail.
 
-Identify necessary data for demand forecasting, such as sales history, product categories, and seasonal trends.
+2.Identify necessary data for demand forecasting, such as sales history, product categories, and seasonal trends.
 
-Design a high-level system architecture for the AI-based inventory optimization system.
+3.Design a high-level system architecture for the AI-based inventory optimization system.
 
-Create an initial database schema to store sales and inventory data.
+4.Create an initial database schema to store sales and inventory data.
 
-Set up the GitHub repository for version control and documentation.
-
-
+5.Set up the GitHub repository for version control and documentation.
 
 
 
-Repository Structure:
+
+
+**Repository Structure:**
 
 /Data/        - Sample datasets and data sources.
 
@@ -41,7 +41,7 @@ README.md     - Project overview and instructions.
 
 
 
-Setup Instructions:
+**Setup Instructions:**
 
 Clone the Repository:https://github.com/Rajesh9219/GroupB_2024F-T3_AISC2013_01/tree/main
 
@@ -73,8 +73,8 @@ Pull Request (PR): Once a task is complete, submit a PR to merge your branch int
 
 
 
-
-Collaboration Guidelines:
+**
+Collaboration Guidelines:**
 
 Use GitHub Issues to track and assign tasks.
 
