@@ -10,6 +10,8 @@ Project Overview:
 This project is part of the Retail Industry Project with the objective of developing an AI-based system to predict product demand and optimize restocking. The goal is to reduce inventory holding costs while ensuring that products are available when needed. The system will use demand forecasting models (e.g., ARIMA, Prophet) and optimization techniques (e.g., linear programming) to suggest optimal restocking quantities.
 
 
+
+
 Phase 1 Objectives:
 
 Define the inventory optimization problem in retail.
@@ -24,6 +26,8 @@ Set up the GitHub repository for version control and documentation.
 
 
 
+
+
 Repository Structure:
 
 /Data/        - Sample datasets and data sources.
@@ -33,6 +37,8 @@ Repository Structure:
 /Docs/        - Project documentation (problem statement, architecture design, database schema).
 
 README.md     - Project overview and instructions.
+
+
 
 
 Setup Instructions:
@@ -62,6 +68,11 @@ Push Changes:git push origin <branch-name>
 
 
 Pull Request (PR): Once a task is complete, submit a PR to merge your branch into the main branch. Ensure peer review before merging.
+
+
+
+
+
 
 Collaboration Guidelines:
 
