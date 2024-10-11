@@ -1,0 +1,15 @@
+Deliverables for Phase 1:
+Problem Statement:
+Written description of how inventory optimization will improve efficiency and reduce costs.
+
+System Architecture Design:
+High-level system design diagram showing data flow, prediction models, and optimization techniques.
+
+Database Schema:
+Initial schema to store sales, product, and inventory data.
+
+Data Preprocessing Plan:
+Description of how you will preprocess the data (e.g., handling missing values, normalizing data).
+
+GitHub Repository:
+A repository set up with documentation, initial architecture design, and database schema.
