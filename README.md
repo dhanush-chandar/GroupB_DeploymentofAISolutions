@@ -73,8 +73,8 @@ Pull Request (PR): Once a task is complete, submit a PR to merge your branch int
 
 
 
-**
-Collaboration Guidelines:**
+
+**Collaboration Guidelines:**
 
 Use GitHub Issues to track and assign tasks.
 
