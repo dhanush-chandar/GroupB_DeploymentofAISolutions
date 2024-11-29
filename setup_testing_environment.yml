@@ -1,0 +1,17 @@
+# setup_testing_environment.yml
+
+---
+- name: Set up testing environment
+  hosts: testing
+  become: yes
+  tasks:
+    - name: Install Python 3 and pip
+      apt:
+        name:
+          - python3
+          - python3-pip
+        state: present
+
+    - name: Install required Python packages
+      pip:
+        requirements: Downloads/deploy/GroupB_DeploymentofAISolutions/requirements.txt
